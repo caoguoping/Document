@@ -1,0 +1,6 @@
+87  97   i dui,    j zhang
+	 j 				                               i
+     0                     [0, dui-2]             dui - 1
+	    
+
+
